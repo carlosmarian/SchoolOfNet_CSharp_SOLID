@@ -9,4 +9,12 @@
     <PackageReference Include="System.Data.SqlClient" Version="4.3.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="2 - OCP\OCP.Solucao\" />
+    <Folder Include="2 - OCP\OCP.Solucao Extension Methods\" />
+    <Folder Include="3 - LSP\" />
+    <Folder Include="4 - ISP\" />
+    <Folder Include="5 - DIP\" />
+  </ItemGroup>
+
 </Project>
