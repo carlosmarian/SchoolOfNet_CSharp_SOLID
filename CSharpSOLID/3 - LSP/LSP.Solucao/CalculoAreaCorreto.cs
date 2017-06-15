@@ -20,6 +20,7 @@ namespace CSharpOO.SOLID.LSP.Solucao
         {
             //var quad = new Quadrado(10, 10);
             var ret = new Retangulo(20, 30);
+
             ObterAreaParalelogramo(ret);
         }
     }
